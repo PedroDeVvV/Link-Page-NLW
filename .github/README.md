@@ -21,4 +21,4 @@ Linkedin: https://www.linkedin.com/in/pedro-henrique-g-silva-a2100a23a/?original
 
 ## ✍️O que eu aprendi ?
 
-Sem dúvidas a didática desse evento me chamou muito a atenção pela clareza, portanto pude absorver técnicas como transições e animações no CSS e também alternativas para identificação dos containers, impressionante como a mesma soluçaõ pode ser criada com códigos bem diferentes.
+Sem dúvidas a didática desse evento me chamou muito a atenção pela clareza, portanto pude absorver técnicas como transições e animações no CSS e também alternativas para identificação dos containers, impressionante como a mesma solução pode ser criada com códigos bem diferentes.
